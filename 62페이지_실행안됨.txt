@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Document</title>
+    <script>
+        var input = prompt('숫자를 입력해주세요', '숫자');
+        var numberInput = Number(input);
+
+        alert (fypeof (numberInput) +': ' + numberInput);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+alert ('' == false);
+        alert ('' == 0);
+        alert (0 == false);
+        alert ('273' == 273);
+
+
+
+
+
+
